@@ -13,3 +13,5 @@ R (>= 4.0 recommended) and packages:
 install.packages(c("readxl", "isdals", "faraway"))
 
 
+
+
