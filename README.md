@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Robust Weighted Ridge Regression (R)
 This repository includes:
 - Real-data examples using `robustweightedRidge`
