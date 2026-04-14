@@ -83,7 +83,7 @@ seatpos.ridge$stdtabledataframe
 - **Error Distribution and Outliers:** To evaluate robustness, the error term is modeled using a contaminated normal distribution (e.g., 10% contamination with a scale factor of k=3). The script allows for a transition to a standard normal distribution by modifying the error model parameters.
 
 **Output Metrics:**
-- `simutabledataframe`: Comprehensive performance metrics including Mean, Bias, Variance, Mean Squared Error (MSE), and Relative Efficiency (RE) for all estimators across all parameters (β0, β1, β2, β3)
+- `simutabledataframe`: Comprehensive performance metrics including Mean, Bias, Variance, Mean Squared Error (MSE),r squared (R2), and Relative Efficiency (RE) for all estimators across all parameters (β0, β1, β2, β3)
 - `meanrankdataframe`: Statistical ranking of the methods based on MSE performance and associated standard errors
 
 **Input Metrics:**
